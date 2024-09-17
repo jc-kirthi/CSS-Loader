@@ -1,5 +1,5 @@
 # Check out the code, to try it!
-<hr>
+
 
 Here is how we can create a 'simple loader' using mainly CSS properties like animation and border.
 
