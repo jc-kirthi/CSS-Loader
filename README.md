@@ -5,8 +5,6 @@ Here is how we can create a 'simple loader' using mainly CSS properties like ani
 
 <br>
 
-To see the output, paste this link in the browser:
-
 https://jc-kirthi.github.io/CSS-Loader/
 
 
